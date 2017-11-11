@@ -1,0 +1,5 @@
+basePackage=com.sample
+secureCodeEnabled=false
+useMongo=true
+uiType=VueJS
+prepForOracle=false
